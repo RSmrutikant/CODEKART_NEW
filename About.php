@@ -5,7 +5,8 @@
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Document</title>
+  <title>CODEKART | ABOUT</title>
+  <link rel="icon" href="./Assets/Images/ICON.png" type="image/icon type">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -43,10 +44,7 @@
           </h1>
           <img src="./Assets/Images/redline.png" alt="" class="redLine1" />
           <p class="about-dec">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
-            Voluptates at esse laboriosam, assumenda fuga corporis et est quis
-            iste nesciunt modi natus voluptas commodi debitis sequi enim
-            distinctio quisquam, a deleniti repellendus.
+            CodeKart is a software company providing consultancy to others. It provides services based on Web development, Mobile App development (iOS & Android), Software testing, UI/UX design, Artificial Intelligence, and many more.
           </p>
         </div>
         <div class="col-sm-6">
@@ -72,8 +70,7 @@
         </div>
         <div class="col-md-7">
           <p id="para1">
-            We're independently owned, strategic creative agency & forever
-            curious and ready to transform the way business is done.
+            In-house expert developers in development and services are determined to cater to every challenge we face in the coming years. Being an IT service company it is important to look at the latest trends and improvements in technology. We look at things very seriously and know the value of how a single change in the technology field can change the whole scenario. We always stick with the latest trends & technology and make the best product for customers. So as an IT company it is recruiting good minds, generating good revenue and also an aim to reach 100+ employees by the end of year 2024.
           </p>
         </div>
       </div>
@@ -123,10 +120,10 @@
                 <div class="FlipContainer">
                   <div class="image-cube cube1">
                     <div class="front">
-                      <img class="flipImg" src="./Assets/Images/square.png">
+                      <img class="flipImg" src="./Assets/Images/About/Frame 123.png">
                     </div>
                     <div class="back">
-                      <img class="flipImg" src="./Assets/Images/square2.png">
+                      <img class="flipImg" src="./Assets/Images/About/Frame 131.png">
                     </div>
                   </div>
                 </div>
@@ -137,10 +134,10 @@
                 <div class="FlipContainer">
                   <div class="image-cube cube4">
                     <div class="front">
-                      <img class="flipImg" src="./Assets/Images/square.png">
+                      <img class="flipImg" src="./Assets/Images/About/Frame 124.png">
                     </div>
                     <div class="back">
-                      <img class="flipImg" src="./Assets/Images/square2.png">
+                      <img class="flipImg" src="./Assets/Images/About/Frame 130.png">
                     </div>
                   </div>
                 </div>
@@ -151,10 +148,10 @@
                 <div class="FlipContainer">
                   <div class="image-cube cube2">
                     <div class="front">
-                      <img class="flipImg" src="./Assets/Images/square.png">
+                      <img class="flipImg" src="./Assets/Images/About/Frame 125.png">
                     </div>
                     <div class="back">
-                      <img class="flipImg" src="./Assets/Images/square2.png">
+                      <img class="flipImg" src="./Assets/Images/About/Frame 129.png">
                     </div>
                   </div>
                 </div>
@@ -167,10 +164,10 @@
                 <div class="FlipContainer">
                   <div class="image-cube cube4">
                     <div class="front">
-                      <img class="flipImg" src="./Assets/Images/square.png">
+                      <img class="flipImg" src="./Assets/Images/About/Frame 126.png">
                     </div>
                     <div class="back">
-                      <img class="flipImg" src="./Assets/Images/square2.png">
+                      <img class="flipImg" src="./Assets/Images/About/Frame 128.png">
                     </div>
                   </div>
                 </div>
@@ -181,10 +178,10 @@
                 <div class="FlipContainer">
                   <div class="image-cube cube3">
                     <div class="front">
-                      <img class="flipImg" src="./Assets/Images/square.png">
+                      <img class="flipImg" src="./Assets/Images/About/Frame 127.png">
                     </div>
                     <div class="back">
-                      <img class="flipImg" src="./Assets/Images/square2.png">
+                      <img class="flipImg" src="./Assets/Images/About/Frame 127.png">
                     </div>
                   </div>
                 </div>
@@ -195,10 +192,10 @@
                 <div class="FlipContainer">
                   <div class="image-cube cube1">
                     <div class="front">
-                      <img class="flipImg" src="./Assets/Images/square.png">
+                      <img class="flipImg" src="./Assets/Images/About/Frame 128.png">
                     </div>
                     <div class="back">
-                      <img class="flipImg" src="./Assets/Images/square2.png">
+                      <img class="flipImg" src="./Assets/Images/About/Frame 126.png">
                     </div>
                   </div>
                 </div>
@@ -211,10 +208,10 @@
                 <div class="FlipContainer">
                   <div class="image-cube cube3">
                     <div class="front">
-                      <img class="flipImg" src="./Assets/Images/square.png">
+                      <img class="flipImg" src="./Assets/Images/About/Frame 129.png">
                     </div>
                     <div class="back">
-                      <img class="flipImg" src="./Assets/Images/square2.png">
+                      <img class="flipImg" src="./Assets/Images/About/Frame 125.png">
                     </div>
                   </div>
                 </div>
@@ -225,10 +222,10 @@
                 <div class="FlipContainer">
                   <div class="image-cube cube4">
                     <div class="front">
-                      <img class="flipImg" src="./Assets/Images/square.png">
+                      <img class="flipImg" src="./Assets/Images/About/Frame 130.png">
                     </div>
                     <div class="back">
-                      <img class="flipImg" src="./Assets/Images/square2.png">
+                      <img class="flipImg" src="./Assets/Images/About/Frame 124.png">
                     </div>
                   </div>
                 </div>
@@ -239,10 +236,10 @@
                 <div class="FlipContainer">
                   <div class="image-cube cube2">
                     <div class="front">
-                      <img class="flipImg" src="./Assets/Images/square.png">
+                      <img class="flipImg" src="./Assets/Images/About/Frame 131.png">
                     </div>
                     <div class="back">
-                      <img class="flipImg" src="./Assets/Images/square2.png">
+                      <img class="flipImg" src="./Assets/Images/About/Frame 123.png">
                     </div>
                   </div>
                 </div>
@@ -253,9 +250,8 @@
         <div class="col-sm-6">
           <h1 class="section4Text">
             OUR <br />
-            CONTRIBUTION <br />
-            TOWARDS <br />
-            <span id="society">SOCIETY</span>
+            OFFICIAL <br />
+            <span id="society">CULTURE</span>
           </h1>
         </div>
       </div>

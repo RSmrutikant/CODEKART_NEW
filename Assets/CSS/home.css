@@ -38,6 +38,7 @@
 
 .home-slider {
   position: relative;
+  margin-top: 5rem;
 }
 .home-slider .frame img {
   margin: 0;
@@ -45,7 +46,7 @@
   position: absolute;
   bottom: 0;
   left: 0;
-  width: 98.9vw;
+  width: 99.2vw;
   z-index: 2;
 }
 /* slider1 text */
@@ -99,7 +100,7 @@
 .ml9 {
   position: relative;
   font-weight: 200;
-  font-size: 4em;
+  font-size: 3.5em;
 }
 
 .ml9 .text-wrapper {

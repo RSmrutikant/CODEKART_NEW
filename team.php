@@ -5,8 +5,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Codekart Protfolio / Team</title>
+    <title>CODEKART | TEAM</title>
+    <link rel="icon" href="./Assets/Images/ICON.png" type="image/icon type">
     <link rel="stylesheet" href="./Assets/CSS/team.css">
+    <link rel="stylesheet" href="./Assets/CSS/Style.css">
     <!-- CSS only -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -63,10 +65,10 @@
                 <div class="team_main">
 
                     <div class="team">
-                        <img src="./Assets/Images/team1.png">
+                        <img src="./Assets/Images/Teams/SHUBHAM.png">
                         <div class="overlay">
-                            <p class="team_name">John Doe</p>
-                            <p class="team_designation">Senior Java Developer</p>
+                            <p class="team_name">Shubham Mohapatra</p>
+                            <p class="team_designation">Director/CEO</p>
                             <div class="Social_icons">
                                 <div class="Social_icon"><i class="fa fa-facebook"></i></div>
                                 <div class="Social_icon"><i class="fa fa-linkedin"></i></div>
@@ -75,10 +77,35 @@
                         </div>
                     </div>
                     <div class="team">
-                        <img src="./Assets/Images/team2.png">
+                        <img src="./Assets/Images/Teams/BHAGYASHREE.png">
                         <div class="overlay">
-                            <p class="team_name">John Doe</p>
-                            <p class="team_designation">Senior Java Developer</p>
+                            <p class="team_name">Bhagyashree Patra</p>
+                            <p class="team_designation">Associate Software Developer</p>
+                            <div class="Social_icons">
+                                <div class="Social_icon"><a href="https://www.facebook.com/profile.php?id=100059566053111"><i class="fa fa-facebook"></i></a></div>
+                                <div class="Social_icon"><a href="https://www.linkedin.com/in/bhagyashree-patra-127156193"><i class="fa fa-linkedin"></i></a></div>
+                                <div class="Social_icon"><a href="https://github.com/bhagyashree0654/"><i class="fa fa-github"></i></a></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="team">
+                        <img src="./Assets/Images/Teams/ANIL PATRA.png">
+                        <div class="overlay">
+                            <p class="team_name">Anil Patra</p>
+                            <p class="team_designation">Software Testing Engineer</p>
+                            <div class="Social_icons">
+                                <div class="Social_icon"><a href="https://www.facebook.com/anil.patra.92"><i class="fa fa-facebook"></i></a></div>
+                                <div class="Social_icon"><a href="https://www.linkedin.com/in/anil-patra-baa348206"><i class="fa fa-linkedin"></i></a></div>
+                                <div class="Social_icon"><a href=""><i class="fa fa-github"></i></a></div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="team">
+                        <img src="./Assets/Images/Teams/NIHAL KULKARNI.png">
+                        <div class="overlay">
+                            <p class="team_name">Nihal Kulkarni</p>
+                            <p class="team_designation">Associate Software Developer</p>
                             <div class="Social_icons">
                                 <div class="Social_icon"><i class="fa fa-facebook"></i></div>
                                 <div class="Social_icon"><i class="fa fa-linkedin"></i></div>
@@ -86,22 +113,61 @@
                             </div>
                         </div>
                     </div>
+
                     <div class="team">
-                        <img src="./Assets/Images/team3.png">
+                        <img src="./Assets/Images/Teams/SAGARIKA MOHANTY.png">
                         <div class="overlay">
-                            <p class="team_name">John Doe</p>
-                            <p class="team_designation">Senior Java Developer</p>
+                            <p class="team_name">Sagarika Mohanty</p>
+                            <p class="team_designation">Associate Software Developer</p>
+                            <div class="Social_icons">
+                                <div class="Social_icon"><a href="https://www.facebook.com/sagarika.mohanty.77398"><i class="fa fa-facebook"></i></a></div>
+                                <div class="Social_icon"><a href="http://www.linkedin.com/in/sagarika-mohanty-ba28a01b8"><i class="fa fa-linkedin"></i></a></div>
+                                <div class="Social_icon"><a href="https://github.com/sagarika710"><i class="fa fa-github"></i></a></div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="team">
+                        <img src="./Assets/Images/Teams/ADIL RASHID.png">
+                        <div class="overlay">
+                            <p class="team_name">Adil Rashid</p>
+                            <p class="team_designation">Associate Software Developer</p>
                             <div class="Social_icons">
                                 <div class="Social_icon"><i class="fa fa-facebook"></i></div>
-                                <div class="Social_icon"><i class="fa fa-linkedin"></i></div>
+                                <div class="Social_icon"><a href="https://www.linkedin.com/in/adil-rashid-090"><i class="fa fa-linkedin"></a></i></div>
+                                <div class="Social_icon"><a href="https://github.com/adilrashid-ind"><i class="fa fa-github"></i></a></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="team">
+                        <img src="./Assets/Images/Teams/3.png">
+                        <div class="overlay">
+                            <p class="team_name">Rani Victoria Nayak</p>
+                            <p class="team_designation">Human Resource Executive</p>
+                            <div class="Social_icons">
+                                <div class="Social_icon"><i class="fa fa-facebook"></i></div>
+                                <div class="Social_icon"><a href="https://www.linkedin.com/in/victoria-nayak-34b15b226"><i class="fa fa-linkedin"></i></a></div>
                                 <div class="Social_icon"><i class="fa fa-github"></i></div>
                             </div>
                         </div>
                     </div>
                     <div class="team">
-                        <img src="./Assets/Images/team4.png">
+                        <img src="./Assets/Images/Teams/SOMNATH.png">
                         <div class="overlay">
-                            <p class="team_name">John Doe</p>
+                            <p class="team_name">Somnath Sahoo</p>
+                            <p class="team_designation">Associate Software Developer</p>
+                            <div class="Social_icons">
+                                <div class="Social_icon"><a href="https://www.facebook.com/somnath.sahoo.777"><i class="fa fa-facebook"></i></a></div>
+                                <div class="Social_icon"><a href="https://www.linkedin.com/in/somanathsahoo786"><i class="fa fa-linkedin"></i></a></div>
+                                <div class="Social_icon"><a href="https://github.com/SOMANATH-SAHOO"><i class="fa fa-github"></i></a></div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="team">
+                        <img src="./Assets/Images/Teams/ANKITA SENAPATI.png">
+                        <div class="overlay">
+                            <p class="team_name">Ankita Senapati</p>
                             <p class="team_designation">Senior Java Developer</p>
                             <div class="Social_icons">
                                 <div class="Social_icon"><i class="fa fa-facebook"></i></div>
@@ -112,7 +178,55 @@
                     </div>
 
                     <div class="team">
-                        <img src="./Assets/Images/team5.png">
+                        <img src="./Assets/Images/Teams/JOHN.png">
+                        <div class="overlay">
+                            <p class="team_name">Rajesh</p>
+                            <p class="team_designation">Senior Java Developer</p>
+                            <div class="Social_icons">
+                                <div class="Social_icon"><i class="fa fa-facebook"></i></div>
+                                <div class="Social_icon"><i class="fa fa-linkedin"></i></div>
+                                <div class="Social_icon"><i class="fa fa-github"></i></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="team">
+                        <img src="./Assets/Images/Teams/SMRUTIKANT.png">
+                        <div class="overlay">
+                            <p class="team_name">Smrutikant Rout</p>
+                            <p class="team_designation">Associate Software Developer</p>
+                            <div class="Social_icons">
+                                <div class="Social_icon"><i class="fa fa-facebook"></i></div>
+                                <div class="Social_icon"><i class="fa fa-linkedin"></i></div>
+                                <div class="Social_icon"><i class="fa fa-github"></i></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="team">
+                        <img src="./Assets/Images/Teams/SIDDHESWAR PANDA.png">
+                        <div class="overlay">
+                            <p class="team_name">Siddheshwar Panda</p>
+                            <p class="team_designation">Associate Software Developer</p>
+                            <div class="Social_icons">
+                                <div class="Social_icon"><a href="https://www.linkedin.com/in/siddheshwar-panda-6a07281b0/"><i class="fa fa-facebook"></i></a></div>
+                                <div class="Social_icon"><a href="https://www.facebook.com/siddheshwar.panda.77/"><i class="fa fa-linkedin"></i></a></div>
+                                <div class="Social_icon"><a href="https://github.com/sidd2307"><i class="fa fa-github"></i></a></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="team">
+                        <img src="./Assets/Images/Teams/2.png">
+                        <div class="overlay">
+                            <p class="team_name">John Doe</p>
+                            <p class="team_designation">Associate Software Developer</p>
+                            <div class="Social_icons">
+                                <div class="Social_icon"><i class="fa fa-facebook"></i></div>
+                                <div class="Social_icon"><i class="fa fa-linkedin"></i></div>
+                                <div class="Social_icon"><i class="fa fa-github"></i></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="team">
+                        <img src="./Assets/Images/Teams/ABC.png">
                         <div class="overlay">
                             <p class="team_name">John Doe</p>
                             <p class="team_designation">Senior Java Developer</p>
@@ -124,38 +238,14 @@
                         </div>
                     </div>
                     <div class="team">
-                        <img src="./Assets/Images/team6.png">
+                        <img src="./Assets/Images/Teams/ZOBER HUSSAIN.png">
                         <div class="overlay">
-                            <p class="team_name">John Doe</p>
-                            <p class="team_designation">Senior Java Developer</p>
+                            <p class="team_name">Zober Hossain</p>
+                            <p class="team_designation">Associate Software Developer</p>
                             <div class="Social_icons">
-                                <div class="Social_icon"><i class="fa fa-facebook"></i></div>
-                                <div class="Social_icon"><i class="fa fa-linkedin"></i></div>
-                                <div class="Social_icon"><i class="fa fa-github"></i></div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="team">
-                        <img src="./Assets/Images/team7.png">
-                        <div class="overlay">
-                            <p class="team_name">John Doe</p>
-                            <p class="team_designation">Senior Java Developer</p>
-                            <div class="Social_icons">
-                                <div class="Social_icon"><i class="fa fa-facebook"></i></div>
-                                <div class="Social_icon"><i class="fa fa-linkedin"></i></div>
-                                <div class="Social_icon"><i class="fa fa-github"></i></div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="team">
-                        <img src="./Assets/Images/team1.png">
-                        <div class="overlay">
-                            <p class="team_name">John Doe</p>
-                            <p class="team_designation">Senior Java Developer</p>
-                            <div class="Social_icons">
-                                <div class="Social_icon"><i class="fa fa-facebook"></i></div>
-                                <div class="Social_icon"><i class="fa fa-linkedin"></i></div>
-                                <div class="Social_icon"><i class="fa fa-github"></i></div>
+                                <div class="Social_icon"><a href="https://m.facebook.com/zobaer53"><i class="fa fa-facebook"></i></a></div>
+                                <div class="Social_icon"><a href="https://www.linkedin.com/mwlite/in/zobaer53"><i class="fa fa-linkedin"></i></a></div>
+                                <div class="Social_icon"><a href="https://github.com/zobaer53"><i class="fa fa-github"></i></a></div>
                             </div>
                         </div>
                     </div>
@@ -174,10 +264,10 @@
 
                         <div class="item">
 
-                            <img class="pic" src="./Assets/Images/profile1.png">
+                            <img class="pic" src="./Assets/Images/Teams/SHUBHAM MOHAPATRA.png">
                             <div class="profile">
-                                <p class="profile_name">Selena Gomez</p>
-                                <p class="profile_designation">Product design Advisor</p>
+                                <p class="profile_name">Shubham Mohapatra</p>
+                                <p class="profile_designation">Director/CEO</p>
                                 <div class="Social_icons">
                                     <div class="Social_icon"><i class="fa fa-facebook"></i></div>
                                     <div class="Social_icon"><i class="fa fa-linkedin"></i></div>
@@ -189,9 +279,9 @@
 
                         <div class="item">
 
-                            <img class="pic" src="./Assets/Images/profile2.png">
+                            <img class="pic" src="./Assets/Images/Teams/SNEHASISH MOHAPATRA.png">
                             <div class="profile">
-                                <p class="profile_name">Roy Orbison</p>
+                                <p class="profile_name">Snehasish Mohapatra</p>
                                 <p class="profile_designation">Product Researcher</p>
                                 <div class="Social_icons">
                                     <div class="Social_icon"><i class="fa fa-facebook"></i></div>

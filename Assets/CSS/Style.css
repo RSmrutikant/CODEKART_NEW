@@ -5,3 +5,14 @@
   z-index: 10;
   box-shadow: 5px 10px 10px #00000035;
 } */
+
+::-moz-selection {
+  /* Code for Firefox */
+  color: #000;
+  background: #87c700;
+}
+
+::selection {
+  color: #000;
+  background: #87c700;
+}

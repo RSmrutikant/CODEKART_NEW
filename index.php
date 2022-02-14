@@ -22,6 +22,8 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="./Assets/CSS/home.css">
     <title>CODEKART | HOME</title>
+    <link rel="stylesheet" href="./Assets/CSS/Style.css">
+    <link rel="icon" href="./Assets/Images/ICON.png" type="image/icon type">
     <style>
         ::-webkit-scrollbar {
             width: 12px;
@@ -58,7 +60,7 @@
                     </h1>
 
                     <div class="firstbtn">
-                        <a href="#">Write a review</a>
+                        <a href="./contact.php">Write a review</a>
                     </div>
                 </div>
 
@@ -68,7 +70,7 @@
                     <h1 class="ml13 slider-text">
                         Our Products Out Now.</h1>
                     <div class="firstbtn">
-                        <a href="#">Write a review</a>
+                        <a href="./contact.php">Write a review</a>
                     </div>
                 </div>
             </div>
@@ -80,7 +82,7 @@
                         </span>
                     </h1>
                     <div class="firstbtn">
-                        <a href="#">Write a review</a>
+                        <a href="./contact.php">Write a review</a>
                     </div>
                 </div>
             </div>
@@ -92,7 +94,7 @@
                         </span>
                     </h1>
                     <div class="firstbtn">
-                        <a href="#">Write a review</a>
+                        <a href="./contact.php">Write a review</a>
                     </div>
                 </div>
             </div>
@@ -111,13 +113,7 @@
                         <div class="icon section-2-icon1"></div>
                         <div class="content">
                             <h4>Our vision</h4>
-                            <p>multilingual online encyclopedia written and maintained by a community of volunteers
-                                through
-                                a
-                                model
-                                of open collaboration, using a wiki-based editing system. Individual contributors, also
-                                called
-                                editors, are known as Wikipedians. It is the largest </p>
+                            <p>As a software company Codekart’s vision is to distribute the simplicity of technology among all. Our plan is to get the best out of technology and solve the day to day problems of a common person in the simplest way. Our plan is to create a big employment pool to provide employment to all and make them economically stable. We are on the track to take people in such a direction where technology will give them all the happiness.</p>
                         </div>
                     </div>
                 </div>
@@ -126,13 +122,7 @@
                         <div class="icon section-2-icon2"></div>
                         <div class="content">
                             <h4>Our Mission</h4>
-                            <p>multilingual online encyclopedia written and maintained by a community of volunteers
-                                through
-                                a
-                                model
-                                of open collaboration, using a wiki-based editing system. Individual contributors, also
-                                called
-                                editors, are known as Wikipedians. It is the largest </p>
+                            <p>Our mission is to define the power of technology in a good way to save humanity and connect people all over the world.</p>
                         </div>
                     </div>
                 </div>
@@ -141,13 +131,7 @@
                         <div class="icon section-2-icon3"></div>
                         <div class="content">
                             <h4>Our value</h4>
-                            <p>multilingual online encyclopedia written and maintained by a community of volunteers
-                                through
-                                a
-                                model
-                                of open collaboration, using a wiki-based editing system. Individual contributors, also
-                                called
-                                editors, are known as Wikipedians. It is the largest
+                            <p>Codekart always believes on three core values of Bhagavad Gita i.e. Purity, Honesty and Dedication. It is always determined to provide the pure service as well as product which is helpful for the clients to make them unique from others. It always wants to stay honest and transparent towards the employees, clients and business partners and expect the same from them as well. Dedication is another weapon to get success. All the members of team Codekart are always dedicated to provide the best service to the clients so that the clients can achieve their goal too.
                             </p>
                         </div>
                     </div>
@@ -275,54 +259,54 @@
         <h1 class="ass-partner">OUR ASSOCIATE PARTNER'S</h1>
         <div class="partner-group owl-carousel partners owl-theme">
             <div class="associate">
-                <img src="./Assets/Images/im5.png" alt="">
+                <img src="./Assets/Images/partners/Aarka.png" alt="">
             </div>
             <div class="associate">
-                <img src="./Assets/Images/im5.png" alt="">
+                <img src="./Assets/Images/partners/Oracle Logo - 1280x569.png" alt="">
             </div>
             <div class="associate">
-                <img src="./Assets/Images/im5.png" alt="">
+                <img src="./Assets/Images/partners/BiteNinja.png" alt="">
             </div>
             <div class="associate">
-                <img src="./Assets/Images/im5.png" alt="">
+                <img src="./Assets/Images/partners/Sysway.jpeg" alt="">
             </div>
             <div class="associate">
-                <img src="./Assets/Images/im5.png" alt="">
+                <img src="./Assets/Images/partners/DXC_Technology_logo_(2021).svg.png" alt="">
             </div>
             <div class="associate">
-                <img src="./Assets/Images/im5.png" alt="">
+                <img src="./Assets/Images/partners/Inergio.png" alt="">
             </div>
             <div class="associate">
-                <img src="./Assets/Images/im5.png" alt="">
+                <img src="./Assets/Images/partners/Modulator.jpeg" alt="">
             </div>
             <div class="associate">
-                <img src="./Assets/Images/im5.png" alt="">
+                <img src="./Assets/Images/partners/QSET_LOGO_www.qset_.in_-1.png" alt="">
             </div>
         </div>
         <div class="partner-group owl-carousel partners owl-theme">
             <div class="associate">
-                <img src="./Assets/Images/im5.png" alt="">
+                <img src="./Assets/Images/partners/Hungrytin.png" alt="">
             </div>
             <div class="associate">
-                <img src="./Assets/Images/im5.png" alt="">
+                <img src="./Assets/Images/partners/Solarix.png" alt="">
             </div>
             <div class="associate">
-                <img src="./Assets/Images/im5.png" alt="">
+                <img src="./Assets/Images/partners/Solution mediatech.jpeg" alt="">
             </div>
             <div class="associate">
-                <img src="./Assets/Images/im5.png" alt="">
+                <img src="./Assets/Images/partners/starlly-solutions-squarelogo-1545022256187.png" alt="">
             </div>
             <div class="associate">
-                <img src="./Assets/Images/im5.png" alt="">
+                <img src="./Assets/Images/partners/Synverse.jpeg" alt="">
             </div>
             <div class="associate">
-                <img src="./Assets/Images/im5.png" alt="">
+                <img src="./Assets/Images/partners/Winjit-Logo-High-Resolution.png" alt="">
             </div>
             <div class="associate">
-                <img src="./Assets/Images/im5.png" alt="">
+                <img src="./Assets/Images/partners/Aarka.png" alt="">
             </div>
             <div class="associate">
-                <img src="./Assets/Images/im5.png" alt="">
+                <img src="./Assets/Images/partners/Oracle Logo - 1280x569.png" alt="">
             </div>
         </div>
     </div>
@@ -460,7 +444,46 @@
             </div>
         </div>
         <div class="" style="text-align: center;">
-            <button class="review-btn">Write a Review</button>
+            <button type="button" class="review-btn" data-bs-toggle="modal" data-bs-target="#exampleModal">Write a Review</button>
+            <div style="text-align: left;" class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="exampleModalLabel">Add a Review</h5>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+                            <form class="row g-3">
+                                <div class="col-md-6">
+                                    <label for="inputPassword4" class="form-label">FullName</label>
+                                    <input type="text" class="form-control" id="inputPassword4">
+                                </div>
+                                <div class="col-md-6">
+                                    <label for="inputEmail4" class="form-label">Email</label>
+                                    <input type="email" class="form-control" id="inputEmail4">
+                                </div>
+                                <div class="col-md-6">
+                                    <label for="inputEmail4" class="form-label">Who you are?</label>
+                                    <input type="email" class="form-control" id="inputEmail4">
+                                </div>
+                                <div class="col-md-6">
+                                    <label for="inputPassword4" class="form-label">Image</label>
+                                    <input type="file" class="form-control" id="inputPassword4">
+                                </div>
+                                <div class="col-12">
+                                    <label for="inputAddress" class="form-label">Your Review</label>
+                                    <textarea class="form-control" placeholder="Message" id="message" name="message" required minlength="15" rows="3"></textarea>
+                                </div>
+                            </form>
+                        </div>
+                        <div class="modal-footer">
+                            <!-- <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button> -->
+                            <button type="button" class="btn review-btn">Submit</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
         </div>
 
     </div>

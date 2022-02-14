@@ -446,7 +446,7 @@
           <h5 class="ready">Ready for your next Project ?</h5>
           <p class="lets">Let’s get started.</p>
         </div>
-        <button class="btn btn-dark">Contact Us</button>
+        <button class="btn btn-dark"><a href="./contact.php" target="_blank" style="color: #fff; text-decoration: none; ">Contact Us</a></button>
       </div>
 
       <div class="col-lg-12 col-sm-12 box2">
@@ -473,9 +473,9 @@
             <div class="footer_list">
               <h5>QUICK LINKS</h5>
               <ul>
-                <li>Pricing</li>
-                <li>Careers</li>
-                <li>Teams</li>
+                <li><a style="color: #c5c5c5; text-decoration: none;" href="./service.php#pricing">Pricing</a></li>
+                <li><a style="color: #c5c5c5; text-decoration: none;" href="./career.php">Careers</a></li>
+                <li><a style="color: #c5c5c5; text-decoration: none;" href="./team.php">Teams</a></li>
               </ul>
             </div>
           </div>
@@ -483,10 +483,10 @@
             <div class="footer_list">
               <h5>CONNECT</h5>
               <ul>
-                <li>Contact us</li>
+                <li><a style="color: #c5c5c5; text-decoration: none;" href="./contact.php">Contact us</a></li>
                 <li>Blogs</li>
-                <li>+91 8658164463</li>
-                <li>info@thecodekart.com</li>
+                <li><a style="color: #c5c5c5; text-decoration: none;" href="tel: +918658164463">+91 8658164463</a></li>
+                <li><a style="color: #c5c5c5; text-decoration: none;" href="mailto:info@thecodekart.com">info@thecodekart.com</a></li>
               </ul>
             </div>
           </div>
