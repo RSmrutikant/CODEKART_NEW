@@ -330,7 +330,7 @@
                 <img src="./Assets/Images/partners/palpx.png" alt="">
             </div>
             <div class="associate">
-                <img src="./Assets/Images/partners/Oracle.png" alt="">
+                <img src="./Assets/Images/partners/gel.png" alt="">
             </div>
         </div>
     </div>
