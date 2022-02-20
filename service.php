@@ -44,7 +44,7 @@
         <h2>OUR SERVICES</h2>
       </div>
     </section>
-
+    <div id="webDev"></div>
     <div class="scrollview">
       <!-- Section2 -->
       <section class="section2Services">
@@ -104,7 +104,7 @@
               </div>
             </div>
 
-            <button style="visibility: hidden;">ASK FOR QUOTATION</button>
+            <button id="mobileDev" style="visibility: hidden;">ASK FOR QUOTATION</button>
           </div>
         </div>
       </section>
@@ -146,7 +146,7 @@
               </div>
             </div>
 
-            <button style="visibility: hidden;">ASK FOR QUOTATION</button>
+            <button id="AR" style="visibility: hidden;">ASK FOR QUOTATION</button>
           </div>
         </div>
       </section>
@@ -183,7 +183,7 @@
               </div>
             </div>
 
-            <button style="visibility: hidden;">ASK FOR QUOTATION</button>
+            <button id="Testing" style="visibility: hidden;">ASK FOR QUOTATION</button>
           </div>
         </div>
       </section>
@@ -258,7 +258,7 @@
               </div>
             </div> -->
 
-            <button style="visibility: hidden;">ASK FOR QUOTATION</button>
+            <button id="blockChain" style="visibility: hidden;">ASK FOR QUOTATION</button>
           </div>
         </div>
       </section>
@@ -333,7 +333,7 @@
               </div>
             </div> -->
 
-            <button style="visibility: hidden;">ASK FOR QUOTATION</button>
+            <button id="cyberSecurity" style="visibility: hidden;">ASK FOR QUOTATION</button>
           </div>
         </div>
       </section>
@@ -408,7 +408,7 @@
               </div>
             </div> -->
 
-            <button style="visibility: hidden;">ASK FOR QUOTATION</button>
+            <button id="resourceOutsource" style="visibility: hidden;">ASK FOR QUOTATION</button>
           </div>
         </div>
       </section>

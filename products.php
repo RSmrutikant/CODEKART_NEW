@@ -109,7 +109,7 @@
         </div>
     </section>
     <main class="product-body">
-        <div class="" style="background-color: #FFFCFA;">
+        <div id="Nirmalya" class="" style="background-color: #FFFCFA;">
             <div class="container">
                 <div class="row flex-column-reverse flex-md-row">
                     <div class="col-sm-5 col-md-6 col-lg-5 product-desc align-items-center">
@@ -129,7 +129,7 @@
             </div>
         </div>
         <!-- section-2 -->
-        <div class="" style="background-color: #DBFAE9;">
+        <div id="CMS" class="" style="background-color: #DBFAE9;">
             <div class="container">
                 <div class="row flex-md-row">
                     <div class=" col-sm-7 col-md-6 col-lg-7 product-img">
@@ -148,7 +148,7 @@
             </div>
         </div>
         <!-- section 3 -->
-        <div class="" style="background-color: #FFFCFA;">
+        <div id="Atharw" class="" style="background-color: #FFFCFA;">
             <div class="container">
                 <div class="row flex-column-reverse flex-md-row">
                     <div class=" col-sm-5 col-md-6 col-lg-5 product-desc align-items-center">
@@ -167,7 +167,7 @@
             </div>
         </div>
         <!-- section-4 -->
-        <div class="" style="background-color: #DBFAE9;">
+        <div id="Ckare" class="" style="background-color: #DBFAE9;">
             <div class="container">
                 <div class="row flex-md-row">
                     <div class=" col-sm-7 col-md-6 col-lg-7 product-img">
@@ -186,7 +186,7 @@
             </div>
         </div>
         <!-- section 5 -->
-        <div class="" style="background-color: #FFFCFA;">
+        <div id="Stand4all" class="" style="background-color: #FFFCFA;">
             <div class="container">
                 <div class="row flex-column-reverse flex-md-row">
                     <div class=" col-sm-5 col-md-6 col-lg-5 product-desc align-items-center">

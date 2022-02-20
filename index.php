@@ -174,84 +174,108 @@
         </div>
         <h1>OUR <span style="color: red;">S</span>ERVICES</h1>
         <div class="owl-carousel car2 owl-theme service-card-group">
-            <div class="service-card">
-                <img src="./Assets/Images/web-dev.png" alt="">
-                <div class="box-content">
-                    <h1>WEB<br>DEVELOPEMENT</h1>
+            <a href="./service.php#webDev">
+                <div class="service-card">
+                    <img src="./Assets/Images/web-dev.png" alt="">
+                    <div class="box-content">
+                        <h1>WEB<br>DEVELOPEMENT</h1>
+                    </div>
                 </div>
-            </div>
-            <div class="service-card">
-                <img src="./Assets/Images/mobileDev.png" alt="">
-                <div class="box-content">
-                    <h1>MOBILE<br>DEVELOPEMENT</h1>
+            </a>
+            <a href="./service.php#mobileDev">
+                <div class="service-card">
+                    <img src="./Assets/Images/mobileDev.png" alt="">
+                    <div class="box-content">
+                        <h1>MOBILE<br>DEVELOPEMENT</h1>
+                    </div>
                 </div>
-            </div>
-            <div class="service-card">
-                <img src="./Assets/Images/AR.png" alt="">
-                <div class="box-content">
-                    <h1>AUGMENTED<br>REALITY</h1>
+            </a>
+            <a href="./service.php#AR">
+                <div class="service-card">
+                    <img src="./Assets/Images/AR.png" alt="">
+                    <div class="box-content">
+                        <h1>AUGMENTED<br>REALITY</h1>
+                    </div>
                 </div>
-            </div>
-            <div class="service-card">
-                <img src="./Assets/Images/testing.png" alt="">
-                <div class="box-content">
-                    <h1>SOFTWARE<br>TESTING</h1>
+            </a>
+            <a href="./service.php#Testing">
+                <div class="service-card">
+                    <img src="./Assets/Images/testing.png" alt="">
+                    <div class="box-content">
+                        <h1>SOFTWARE<br>TESTING</h1>
+                    </div>
                 </div>
-            </div>
-            <div class="service-card">
-                <img src="./Assets/Images/blockchain.png" alt="">
-                <div class="box-content">
-                    <h1>BLOCKCHAIN</h1>
+            </a>
+            <a href="./service.php#blockChain">
+                <div class="service-card">
+                    <img src="./Assets/Images/blockchain.png" alt="">
+                    <div class="box-content">
+                        <h1>BLOCKCHAIN</h1>
+                    </div>
                 </div>
-            </div>
-            <div class="service-card">
-                <img src="./Assets/Images/cyberSec.png" alt="">
-                <div class="box-content">
-                    <h1>CYBER<br>SECURITY</h1>
+            </a>
+            <a href="./service.php#cyberSecurity">
+                <div class="service-card">
+                    <img src="./Assets/Images/cyberSec.png" alt="">
+                    <div class="box-content">
+                        <h1>CYBER<br>SECURITY</h1>
+                    </div>
                 </div>
-            </div>
-            <div class="service-card">
-                <img src="./Assets/Images/outSource.png" alt="">
-                <div class="box-content">
-                    <h1>RESOURCE<br>OUTSOURCING</h1>
+            </a>
+            <a href="./service.php#resourceOutsource">
+                <div class="service-card">
+                    <img src="./Assets/Images/outSource.png" alt="">
+                    <div class="box-content">
+                        <h1>RESOURCE<br>OUTSOURCING</h1>
+                    </div>
                 </div>
-            </div>
+            </a>
         </div>
     </div>
     <!-- PRODUCTION PAGE------------------------------------------------------------------------ -->
     <div class="products">
         <h1>OUR <span style="color: red;">P</span>RODUCTS</h1>
         <div class="owl-carousel car2 owl-theme product-card-group">
-            <div class="product-card">
-                <img class="wooden-bg" src="./Assets/Images/wooden.png" alt="">
-                <div class="content">
-                    <img src="./Assets/Images/NirmalyaProdLogo.png" alt="">
+            <a href="./products.php#Nirmalya">
+                <div class="product-card">
+                    <img class="wooden-bg" src="./Assets/Images/wooden.png" alt="">
+                    <div class="content">
+                        <img src="./Assets/Images/NirmalyaProdLogo.png" alt="">
+                    </div>
                 </div>
-            </div>
-            <div class="product-card">
-                <img class="wooden-bg" src="./Assets/Images/wooden.png" alt="">
-                <div class="content">
-                    <img src="./Assets/Images/CMSProdLogo.png" alt="">
+            </a>
+            <a href="./products.php#CMS">
+                <div class="product-card">
+                    <img class="wooden-bg" src="./Assets/Images/wooden.png" alt="">
+                    <div class="content">
+                        <img src="./Assets/Images/CMSProdLogo.png" alt="">
+                    </div>
                 </div>
-            </div>
-            <div class="product-card">
-                <img class="wooden-bg" src="./Assets/Images/wooden.png" alt="">
-                <div class="content">
-                    <img src="./Assets/Images/atharwProdLogo.png" alt="">
+            </a>
+            <a href="./products.php#Atharw">
+                <div class="product-card">
+                    <img class="wooden-bg" src="./Assets/Images/wooden.png" alt="">
+                    <div class="content">
+                        <img src="./Assets/Images/atharwProdLogo.png" alt="">
+                    </div>
                 </div>
-            </div>
-            <div class="product-card">
-                <img class="wooden-bg" src="./Assets/Images/wooden.png" alt="">
-                <div class="content">
-                    <img src="./Assets/Images/ckareProdLogo.png" alt="">
+            </a>
+            <a href="./products.php#Ckare">
+                <div class="product-card">
+                    <img class="wooden-bg" src="./Assets/Images/wooden.png" alt="">
+                    <div class="content">
+                        <img src="./Assets/Images/ckareProdLogo.png" alt="">
+                    </div>
                 </div>
-            </div>
-            <div class="product-card">
-                <img class="wooden-bg" src="./Assets/Images/wooden.png" alt="">
-                <div class="content">
-                    <img src="./Assets/Images/stand4allProdLogo.png" alt="">
+            </a>
+            <a href="./products.php#Stand4all">
+                <div class="product-card">
+                    <img class="wooden-bg" src="./Assets/Images/wooden.png" alt="">
+                    <div class="content">
+                        <img src="./Assets/Images/stand4allProdLogo.png" alt="">
+                    </div>
                 </div>
-            </div>
+            </a>
         </div>
     </div>
     <!-- ASSOCIATE PAGE------------------------------------------------------------------------ -->
