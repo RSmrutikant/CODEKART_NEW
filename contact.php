@@ -54,7 +54,7 @@
             <div class="details">
               <i class="fa fa-map-marker icon"> </i> &emsp13;
               <div><span style="color: #FF1F00;"> Address Line1:</span>
-                Plot No: HIG-414, K-5, [Bhubaneswar Office], Kalinga Vihar LIG, Kalinganagar, Bhubaneswar, Odisha 751019</div>
+                Plot No: HIG-414, K-5, Kalinga Vihar LIG, Kalinganagar, Bhubaneswar, Odisha 751019</div>
             </div>
             <p class="Address mt-2"><span style="color: #FF1F00;">Address Line2:</span> Plot No: 305, MBR-
               Signity, JP Nagar, 8th Phase, Bengaluru, Karnataka, 560076</p>

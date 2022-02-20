@@ -489,13 +489,14 @@
 
           <div class="col-lg-2 col-sm-12">
             <div>
-              <!-- <p class="address"><span style="color: #C60021;">Address Line-1: </span><br>
-                Plot No 504/2382/2701, First Floor, Phase-II, Kanan Vihar, Patia, Bhubaneswar, Odisha 751024</p> -->
+              <p class="address"><span style="color: #C60021;">Registered Office: </span><br>
+                Plot No 504/2382/2701, First Floor, Phase-II, Kanan Vihar, Patia, Bhubaneswar, Odisha 751024</p>
 
-              <p class="address"><span style="color: #C60021;">Address Line-1: </span><br>
+              <p class="address"><span style="color: #C60021;">Corporate Office-1: </span><br>
                 <a style="color: #fff; text-decoration: none" href="https://goo.gl/maps/oNRWcrd3e3eEqCJDA" target="_blank">Plot No: HIG-414, K-5, [Bhubaneswar Office], Kalinga Vihar LIG, Kalinganagar, Bhubaneswar, Odisha 751019</a>
               </p>
-              <p class="address"><span style="color: #C60021;">AAddress Line-2: </span><br>
+
+              <p class="address"><span style="color: #C60021;">Corporate Office-2: </span><br>
                 MBR Signity, JP Nagar, 8th Phase, Bengaluru, Karnataka, 560076</p>
             </div>
 
