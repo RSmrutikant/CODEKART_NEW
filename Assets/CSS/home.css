@@ -119,16 +119,13 @@
 }
 
 .slide-1 {
-  background-image: url(../Images/slider-1.png);
+  background-image: url(../Images/banner1.png);
 }
 .slide-2 {
-  background-image: url(../Images/slider-1.png);
+  background-image: url(../Images/banner2.png);
 }
 .slide-3 {
-  background-image: url(../Images/slider-1.png);
-}
-.slide-4 {
-  background-image: url(../Images/slider-1.png);
+  background-image: url(../Images/banner3.png);
 }
 .slide-content {
   text-align: center;
@@ -182,7 +179,21 @@
   bottom: 0;
   left: 0;
   width: 300px;
+  animation: floatDot 3s ease-in-out infinite;
 }
+
+@keyframes floatDot {
+  from {
+    transform: translate(0, 0px);
+  }
+  65% {
+    transform: translate(0, 20px);
+  }
+  to {
+    transform: translate(0, -0px);
+  }
+}
+
 .container1 .box {
   position: relative;
   width: auto;
@@ -394,8 +405,9 @@ ul li span {
   background-repeat: no-repeat;
   background-size: contain;
 }
-.partner-group .associate img {
+.partner-group .associate > img {
   padding: 30px;
+  max-width: 200px;
 }
 
 /* CLIENT PAGE=========== */
@@ -460,6 +472,7 @@ ul li span {
 .container4 .profile .circle img {
   width: 60px;
   height: 60px;
+  border-radius: 50px;
 }
 
 /* ================================= */

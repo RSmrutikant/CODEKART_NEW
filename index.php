@@ -50,7 +50,7 @@
     <div class="home-slider">
         <div class="owl-carousel owl-theme">
             <div class="slide slide-1">
-                <div class="slide-content">
+                <!-- <div class="slide-content">
                     <h1 class="ml12 slider-text">
                         We are The
                         IT
@@ -62,20 +62,20 @@
                     <div class="firstbtn">
                         <a href="./contact.php">Write a review</a>
                     </div>
-                </div>
+                </div> -->
 
             </div>
             <div class="slide slide-2">
-                <div class="slide-content">
+                <!-- <div class="slide-content">
                     <h1 class="ml13 slider-text">
                         Our Products Out Now.</h1>
                     <div class="firstbtn">
                         <a href="./contact.php">Write a review</a>
                     </div>
-                </div>
+                </div> -->
             </div>
             <div class=" slide slide-3">
-                <div class="slide-content">
+                <!-- <div class="slide-content">
                     <h1 class="ml6 slider-text">
                         <span class="text-wrapper">
                             <span class="letters">Want to ask us anything?</span>
@@ -84,19 +84,7 @@
                     <div class="firstbtn">
                         <a href="./contact.php">Write a review</a>
                     </div>
-                </div>
-            </div>
-            <div class=" slide slide-4">
-                <div class="slide-content">
-                    <h1 class="ml9 slider-text">
-                        <span class="text-wrapper">
-                            <span class="letters">We provide services in Every Technnical aspects.</span>
-                        </span>
-                    </h1>
-                    <div class="firstbtn">
-                        <a href="./contact.php">Write a review</a>
-                    </div>
-                </div>
+                </div> -->
             </div>
         </div>
         <div class="frame">
@@ -113,7 +101,7 @@
                         <div class="icon section-2-icon1"></div>
                         <div class="content">
                             <h4>Our vision</h4>
-                            <p>As a software company Codekart’s vision is to distribute the simplicity of technology among all. Our plan is to get the best out of technology and solve the day to day problems of a common person in the simplest way. Our plan is to create a big employment pool to provide employment to all and make them economically stable. We are on the track to take people in such a direction where technology will give them all the happiness.</p>
+                            <p>As a software company Codekart’s vision is to distribute the simplicity of technology among all. Our plan is to get the best out of technology and solve the day to day problems of a common person in the simplest way.</p>
                         </div>
                     </div>
                 </div>
@@ -131,7 +119,7 @@
                         <div class="icon section-2-icon3"></div>
                         <div class="content">
                             <h4>Our value</h4>
-                            <p>Codekart always believes on three core values of Bhagavad Gita i.e. Purity, Honesty and Dedication. It is always determined to provide the pure service as well as product which is helpful for the clients to make them unique from others. It always wants to stay honest and transparent towards the employees, clients and business partners and expect the same from them as well. Dedication is another weapon to get success. All the members of team Codekart are always dedicated to provide the best service to the clients so that the clients can achieve their goal too.
+                            <p>Codekart always believes on three core values of Bhagavad Gita i.e. Purity, Honesty and Dedication. It is always determined to provide the pure service as well as product which is helpful for the clients to make them unique from others.
                             </p>
                         </div>
                     </div>
@@ -193,7 +181,7 @@
                 </div>
             </div>
             <div class="service-card">
-                <img src="./Assets/Images/mobile-dev.png" alt="">
+                <img src="./Assets/Images/mobileDev.png" alt="">
                 <div class="box-content">
                     <h1>MOBILE<br>DEVELOPEMENT</h1>
                 </div>
@@ -205,15 +193,27 @@
                 </div>
             </div>
             <div class="service-card">
-                <img src="./Assets/Images/web-dev.png" alt="">
+                <img src="./Assets/Images/testing.png" alt="">
                 <div class="box-content">
-                    <h1>WEB<br>DEVELOPEMENT</h1>
+                    <h1>SOFTWARE<br>TESTING</h1>
                 </div>
             </div>
             <div class="service-card">
-                <img src="./Assets/Images/web-dev.png" alt="">
+                <img src="./Assets/Images/blockchain.png" alt="">
                 <div class="box-content">
-                    <h1>WEB<br>DEVELOPEMENT</h1>
+                    <h1>BLOCKCHAIN</h1>
+                </div>
+            </div>
+            <div class="service-card">
+                <img src="./Assets/Images/cyberSec.png" alt="">
+                <div class="box-content">
+                    <h1>CYBER<br>SECURITY</h1>
+                </div>
+            </div>
+            <div class="service-card">
+                <img src="./Assets/Images/outSource.png" alt="">
+                <div class="box-content">
+                    <h1>RESOURCE<br>OUTSOURCING</h1>
                 </div>
             </div>
         </div>
@@ -225,31 +225,31 @@
             <div class="product-card">
                 <img class="wooden-bg" src="./Assets/Images/wooden.png" alt="">
                 <div class="content">
-                    <img src="./Assets/Images/NIRMALYA.png" alt="">
+                    <img src="./Assets/Images/NirmalyaProdLogo.png" alt="">
                 </div>
             </div>
             <div class="product-card">
                 <img class="wooden-bg" src="./Assets/Images/wooden.png" alt="">
                 <div class="content">
-                    <img src="./Assets/Images/NIRMALYA.png" alt="">
+                    <img src="./Assets/Images/CMSProdLogo.png" alt="">
                 </div>
             </div>
             <div class="product-card">
                 <img class="wooden-bg" src="./Assets/Images/wooden.png" alt="">
                 <div class="content">
-                    <img src="./Assets/Images/NIRMALYA.png" alt="">
+                    <img src="./Assets/Images/atharwProdLogo.png" alt="">
                 </div>
             </div>
             <div class="product-card">
                 <img class="wooden-bg" src="./Assets/Images/wooden.png" alt="">
                 <div class="content">
-                    <img src="./Assets/Images/NIRMALYA.png" alt="">
+                    <img src="./Assets/Images/ckareProdLogo.png" alt="">
                 </div>
             </div>
             <div class="product-card">
                 <img class="wooden-bg" src="./Assets/Images/wooden.png" alt="">
                 <div class="content">
-                    <img src="./Assets/Images/NIRMALYA.png" alt="">
+                    <img src="./Assets/Images/stand4allProdLogo.png" alt="">
                 </div>
             </div>
         </div>
@@ -262,25 +262,25 @@
                 <img src="./Assets/Images/partners/Aarka.png" alt="">
             </div>
             <div class="associate">
-                <img src="./Assets/Images/partners/Oracle Logo - 1280x569.png" alt="">
+                <img src="./Assets/Images/partners/Oracle.png" alt="">
             </div>
             <div class="associate">
                 <img src="./Assets/Images/partners/BiteNinja.png" alt="">
             </div>
             <div class="associate">
-                <img src="./Assets/Images/partners/Sysway.jpeg" alt="">
+                <img src="./Assets/Images/partners/Sysway.png" alt="">
             </div>
             <div class="associate">
-                <img src="./Assets/Images/partners/DXC_Technology_logo_(2021).svg.png" alt="">
+                <img src="./Assets/Images/partners/DXC_Technology.png" alt="">
             </div>
             <div class="associate">
                 <img src="./Assets/Images/partners/Inergio.png" alt="">
             </div>
             <div class="associate">
-                <img src="./Assets/Images/partners/Modulator.jpeg" alt="">
+                <img src="./Assets/Images/partners/Modulator.png" alt="">
             </div>
             <div class="associate">
-                <img src="./Assets/Images/partners/QSET_LOGO_www.qset_.in_-1.png" alt="">
+                <img src="./Assets/Images/partners/QSET.png" alt="">
             </div>
         </div>
         <div class="partner-group owl-carousel partners owl-theme">
@@ -291,22 +291,22 @@
                 <img src="./Assets/Images/partners/Solarix.png" alt="">
             </div>
             <div class="associate">
-                <img src="./Assets/Images/partners/Solution mediatech.jpeg" alt="">
+                <img src="./Assets/Images/partners/Solution_mediatech.png" alt="">
             </div>
             <div class="associate">
-                <img src="./Assets/Images/partners/starlly-solutions-squarelogo-1545022256187.png" alt="">
+                <img src="./Assets/Images/partners/starlly-solutions.png" alt="">
             </div>
             <div class="associate">
-                <img src="./Assets/Images/partners/Synverse.jpeg" alt="">
+                <img src="./Assets/Images/partners/Synverse.png" alt="">
             </div>
             <div class="associate">
-                <img src="./Assets/Images/partners/Winjit-Logo-High-Resolution.png" alt="">
+                <img src="./Assets/Images/partners/Winjit.png" alt="">
             </div>
             <div class="associate">
-                <img src="./Assets/Images/partners/Aarka.png" alt="">
+                <img src="./Assets/Images/partners/palpx.png" alt="">
             </div>
             <div class="associate">
-                <img src="./Assets/Images/partners/Oracle Logo - 1280x569.png" alt="">
+                <img src="./Assets/Images/partners/Oracle.png" alt="">
             </div>
         </div>
     </div>
@@ -328,7 +328,7 @@
                     <!-- PROFILE  --------------------------------------------------->
                     <div class="profile row d-flex">
                         <div class="col-sm-3 circle">
-                            <img src="./Assets/Images/client-img.png" alt="">
+                            <img src="./Assets/Images/user.png" alt="">
                         </div>
                         <div class="col-sm-9 details">
                             <h5>John Doe</h5>
@@ -349,7 +349,7 @@
                     <!-- PROFILE  --------------------------------------------------->
                     <div class="profile row d-flex">
                         <div class="col-sm-3 circle">
-                            <img src="./Assets/Images/client-img.png" alt="">
+                            <img src="./Assets/Images/user.png" alt="">
                         </div>
                         <div class="col-sm-9 details">
                             <h5>John Doe</h5>
@@ -370,7 +370,7 @@
                     <!-- PROFILE  --------------------------------------------------->
                     <div class="profile row d-flex">
                         <div class="col-sm-3 circle">
-                            <img src="./Assets/Images/client-img.png" alt="">
+                            <img src="./Assets/Images/user.png" alt="">
                         </div>
                         <div class="col-sm-9 details">
                             <h5>John Doe</h5>
@@ -391,7 +391,7 @@
                     <!-- PROFILE  --------------------------------------------------->
                     <div class="profile row d-flex">
                         <div class="col-sm-3 circle">
-                            <img src="./Assets/Images/client-img.png" alt="">
+                            <img src="./Assets/Images/user.png" alt="">
                         </div>
                         <div class="col-sm-9 details">
                             <h5>John Doe</h5>
@@ -412,7 +412,7 @@
                     <!-- PROFILE  --------------------------------------------------->
                     <div class="profile row d-flex">
                         <div class="col-sm-3 circle">
-                            <img src="./Assets/Images/client-img.png" alt="">
+                            <img src="./Assets/Images/user.png" alt="">
                         </div>
                         <div class="col-sm-9 details">
                             <h5>John Doe</h5>
@@ -433,7 +433,7 @@
                     <!-- PROFILE  --------------------------------------------------->
                     <div class="profile row d-flex">
                         <div class="col-sm-3 circle">
-                            <img src="./Assets/Images/client-img.png" alt="">
+                            <img src="./Assets/Images/user.png" alt="">
                         </div>
                         <div class="col-sm-9 details">
                             <h5>John Doe</h5>
@@ -453,33 +453,38 @@
                             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                         </div>
                         <div class="modal-body">
-                            <form class="row g-3">
+                            <form class="row g-3" method="post" action="./dbProcess/reviewProcess.php" enctype="multipart/form-data">
                                 <div class="col-md-6">
                                     <label for="inputPassword4" class="form-label">FullName</label>
-                                    <input type="text" class="form-control" id="inputPassword4">
+                                    <input type="text" name="fname" class="form-control" id="inputPassword4" minlength="3" pattern="[A-Za-z]{3,30}">
                                 </div>
                                 <div class="col-md-6">
                                     <label for="inputEmail4" class="form-label">Email</label>
-                                    <input type="email" class="form-control" id="inputEmail4">
+                                    <input type="email" name="email" class="form-control" id="inputEmail4" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$">
                                 </div>
                                 <div class="col-md-6">
                                     <label for="inputEmail4" class="form-label">Who you are?</label>
-                                    <input type="email" class="form-control" id="inputEmail4">
+                                    <select name="whoYou" id="inputState" class="form-select">
+                                        <option value="BuisnessMan" selected>Buisness Man</option>
+                                        <option value="OurClient">Our Client</option>
+                                        <option value="Student">Student</option>
+                                        <option value="other">other</option>
+                                    </select>
                                 </div>
-                                <div class="col-md-6">
+                                <!-- <div class="col-md-6">
                                     <label for="inputPassword4" class="form-label">Image</label>
-                                    <input type="file" class="form-control" id="inputPassword4">
-                                </div>
+                                    <input type="file" name="image" class="form-control" id="inputPassword4">
+                                </div> -->
                                 <div class="col-12">
                                     <label for="inputAddress" class="form-label">Your Review</label>
-                                    <textarea class="form-control" placeholder="Message" id="message" name="message" required minlength="15" rows="3"></textarea>
+                                    <textarea class="form-control" name="review" placeholder="Message" id="message" name="message" required minlength="15" rows="3"></textarea>
                                 </div>
-                            </form>
                         </div>
                         <div class="modal-footer">
-                            <!-- <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button> -->
-                            <button type="button" class="btn review-btn">Submit</button>
+                            <button type="submit" name="reviewBtn" class="btn review-btn">Submit</button>
                         </div>
+                        </form>
+
                     </div>
                 </div>
             </div>
@@ -505,7 +510,7 @@
             $(".owl-carousel").owlCarousel({
                 items: 1,
                 loop: true,
-                dots: true,
+                dots: false,
                 autoplay: true,
                 autoplaySpeed: 1000,
                 smartSpeed: 1500,

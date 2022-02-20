@@ -26,7 +26,24 @@
     position: absolute;
     top: 150px;
     right: 70px;
+    animation: float 3s infinite;
   }
+
+  @keyframes float {
+    0% {
+      transform: translateY(-10px);
+    }
+
+    50% {
+      transform: translateY(0);
+    }
+
+    100% {
+      transform: translateY(-10px);
+    }
+  }
+
+
 
   .footer-container {
     padding-top: 60px;
@@ -203,6 +220,23 @@
     width: 10px;
     background-size: contain;
     background-image: url("./Asset/image/dimond.png");
+  }
+
+  .sos {
+    color: #ffffff;
+    padding: 10px;
+    font-size: 14px;
+    height: 35px;
+    width: 35px;
+    border-radius: 100%;
+    text-align: center;
+  }
+
+  .sos:hover {
+    background-color: #87c700;
+    padding: 10px;
+    color: #ffffff;
+    border-radius: 100px;
   }
 
   @media only screen and (max-width: 260px) {}
@@ -411,10 +445,9 @@
           <div class="box1">
             <div class="sub_box">
               <div class="green_box"></div>
-              <h5 class="heading">Simplicity</h5>
+              <h5 class="heading">Purity</h5>
             </div>
-            <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+            <p class="description">Purity reverses our mental gravity. Purity of mind is the condition of Sattva, i.e., the state of the internal organ being untouched by Rajas and Tamas.
             </p>
           </div>
         </div>
@@ -422,10 +455,9 @@
           <div class="box1">
             <div class="sub_box">
               <div class="orange_box"></div>
-              <h5 class="heading">Social Good</h5>
+              <h5 class="heading">Honesty</h5>
             </div>
-            <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+            <p class="description">Being honest is the foremost quality of especially those treading on the path of spiritualism. In non-religious context honesty is a much desirable virtue. Honesty is one of the main ingredients of what constitutes knowledge.
             </p>
           </div>
         </div>
@@ -433,10 +465,9 @@
           <div class="box1">
             <div class="sub_box">
               <div class="pink_box"></div>
-              <h5 class="heading">Trust</h5>
+              <h5 class="heading">Dedication</h5>
             </div>
-            <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+            <p class="description">The Gita teaches perseverance in the face of impending threats. It calls upon us to dedicate our mind, body, and soul to pure duty and rewrite destiny.
             </p>
           </div>
         </div>
@@ -458,9 +489,12 @@
 
           <div class="col-lg-2 col-sm-12">
             <div>
-              <p class="address"><span style="color: #C60021;">Address Line-1: </span><br>
-                Plot No 504/2382/2701, First Floor, Phase-II, Kanan Vihar, Patia, Bhubaneswar, Odisha 751024</p>
+              <!-- <p class="address"><span style="color: #C60021;">Address Line-1: </span><br>
+                Plot No 504/2382/2701, First Floor, Phase-II, Kanan Vihar, Patia, Bhubaneswar, Odisha 751024</p> -->
 
+              <p class="address"><span style="color: #C60021;">Address Line-1: </span><br>
+                <a style="color: #fff; text-decoration: none" href="https://goo.gl/maps/oNRWcrd3e3eEqCJDA" target="_blank">Plot No: HIG-414, K-5, [Bhubaneswar Office], Kalinga Vihar LIG, Kalinganagar, Bhubaneswar, Odisha 751019</a>
+              </p>
               <p class="address"><span style="color: #C60021;">AAddress Line-2: </span><br>
                 MBR Signity, JP Nagar, 8th Phase, Bengaluru, Karnataka, 560076</p>
             </div>
@@ -474,8 +508,10 @@
               <h5>QUICK LINKS</h5>
               <ul>
                 <li><a style="color: #c5c5c5; text-decoration: none;" href="./service.php#pricing">Pricing</a></li>
-                <li><a style="color: #c5c5c5; text-decoration: none;" href="./career.php">Careers</a></li>
+                <!-- <li><a style="color: #c5c5c5; text-decoration: none;" href="./career.php">Careers</a></li> -->
                 <li><a style="color: #c5c5c5; text-decoration: none;" href="./team.php">Teams</a></li>
+                <li><a style="color: #c5c5c5; text-decoration: none;" href="./service.php">Services</a></li>
+                <li><a style="color: #c5c5c5; text-decoration: none;" href="./products.php">Products</a></li>
               </ul>
             </div>
           </div>
@@ -484,7 +520,7 @@
               <h5>CONNECT</h5>
               <ul>
                 <li><a style="color: #c5c5c5; text-decoration: none;" href="./contact.php">Contact us</a></li>
-                <li>Blogs</li>
+                <!-- <li>Blogs</li> -->
                 <li><a style="color: #c5c5c5; text-decoration: none;" href="tel: +918658164463">+91 8658164463</a></li>
                 <li><a style="color: #c5c5c5; text-decoration: none;" href="mailto:info@thecodekart.com">info@thecodekart.com</a></li>
               </ul>
@@ -501,10 +537,12 @@
             <div class="footer_list">
               <h5>FOLLOW US</h5>
               <div>
-                <img src="./Assets/Images/Ellipse1.png">
-                <img src="./Assets/Images/Ellipse2.png">
-                <img src="./Assets/Images/Ellipse3.png">
-                <img src="./Assets/Images/Ellipse4.png">
+                <p class="mx-0">
+                  <a href="https://www.facebook.com/TheCodeKart" target="_blank"><i class="fa fa-facebook sos"></i></a>
+                  <a href="https://twitter.com/codekart" target="_blank" target="_blank"><i class="fa fa-twitter sos"></i></a>
+                  <a href="https://www.linkedin.com/company/codekart/" target="_blank"><i class="fa fa-linkedin sos"></i></a>
+                  <a href="https://www.instagram.com/thecodekart/" target="_blank"><i class="fa fa-instagram sos"></i></a>
+                </p>
               </div>
             </div>
           </div>

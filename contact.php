@@ -54,17 +54,17 @@
             <div class="details">
               <i class="fa fa-map-marker icon"> </i> &emsp13;
               <div><span style="color: #FF1F00;"> Address Line1:</span>
-                Plot No: 504/2382/2701, First Floor, Phase-II, Kanan Vihar,
-                Patia, Bhubaneswar, Odisha 751024</div>
+                Plot No: HIG-414, K-5, [Bhubaneswar Office], Kalinga Vihar LIG, Kalinganagar, Bhubaneswar, Odisha 751019</div>
             </div>
             <p class="Address mt-2"><span style="color: #FF1F00;">Address Line2:</span> Plot No: 305, MBR-
               Signity, JP Nagar, 8th Phase, Bengaluru, Karnataka, 560076</p>
             <img class="round" src="./Assets/Images/round.png">
             <p class="my-5" style="font-size: 25px; color: #ffffff;">Say <span style="color: #87C700;">Hello!</span></p>
-            <p class="mx-0"><i class="fa fa-facebook sos"></i>
-              <i class="fa fa-twitter sos"></i>
-              <i class="fa fa-linkedin sos"></i>
-              <i class="fa fa-link sos"></i>
+            <p class="mx-0">
+              <a href="https://www.facebook.com/TheCodeKart" target="_blank"><i class="fa fa-facebook sos"></i></a>
+              <a href="https://twitter.com/codekart" target="_blank" target="_blank"><i class="fa fa-twitter sos"></i></a>
+              <a href="https://www.linkedin.com/company/codekart/" target="_blank"><i class="fa fa-linkedin sos"></i></a>
+              <a href="https://www.instagram.com/thecodekart/" target="_blank"><i class="fa fa-instagram sos"></i></a>
             </p>
           </div>
 
@@ -105,7 +105,7 @@
               </div>
 
               <div class="col-md-12 col-sm-12" style="text-align: end;">
-                <button type="submit" name="contact-btn" class="btn btn-primary px-5">Sign in</button>
+                <button type="submit" name="contact-btn" class="btn btn-primary px-5">Send</button>
               </div>
             </form>
           </div>

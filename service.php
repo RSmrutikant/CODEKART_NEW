@@ -57,7 +57,7 @@
               </p>
             </div>
             <div class="col-md-4">
-              <img src="./Assets/Images/augSec.png" alt="" class="rightImg" />
+              <img src="./Assets/Images/webdev.png" alt="" class="rightImg" />
             </div>
           </div>
           <div class="technologyWeAreUsing">

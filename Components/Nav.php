@@ -157,19 +157,20 @@
             <li class="nav-item">
                 <a class="nav-link active" aria-current="page" href="./products.php">PRODUCTS</a>
             </li>
+
+            <a class="d-none d-lg-block brand-logo" href="#"><img src="./Assets/Images/CODEKART.png"></a>
             <li class="nav-item">
                 <a class="nav-link active" aria-current="page" href="./service.php">SERVICES</a>
             </li>
-            <a class="d-none d-lg-block brand-logo" href="#"><img src="./Assets/Images/CODEKART.png"></a>
             <li class="nav-item">
                 <a class="nav-link active" aria-current="page" href="./team.php">TEAM</a>
             </li>
-            <li class="nav-item">
+            <!-- <li class="nav-item">
                 <a class="nav-link active" aria-current="page" href="./blog.php">BLOGS</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link active" aria-current="page" href="./career.php">CAREER</a>
-            </li>
+            </li> -->
             <li class="nav-item">
                 <a class="nav-link active" aria-current="page" href="./contact.php">CONTACT</a>
             </li>

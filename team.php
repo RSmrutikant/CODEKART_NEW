@@ -65,10 +65,22 @@
                 <div class="team_main">
 
                     <div class="team">
-                        <img src="./Assets/Images/Teams/SHUBHAM.png">
+                        <img src="./Assets/Images/Teams/SHUBHAM MOHAPATRA.png">
                         <div class="overlay">
                             <p class="team_name">Shubham Mohapatra</p>
-                            <p class="team_designation">Director/CEO</p>
+                            <p class="team_designation">Co-founder & Director/CEO</p>
+                            <div class="Social_icons">
+                                <div class="Social_icon"><i class="fa fa-facebook"></i></div>
+                                <div class="Social_icon"><i class="fa fa-linkedin"></i></div>
+                                <div class="Social_icon"><i class="fa fa-github"></i></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="team">
+                        <img src="./Assets/Images/Teams/SNEHASISH MOHAPATRA.png">
+                        <div class="overlay">
+                            <p class="team_name">Snehasish Mohapatra</p>
+                            <p class="team_designation">Co-founder & DIrector</p>
                             <div class="Social_icons">
                                 <div class="Social_icon"><i class="fa fa-facebook"></i></div>
                                 <div class="Social_icon"><i class="fa fa-linkedin"></i></div>
@@ -102,19 +114,6 @@
                     </div>
 
                     <div class="team">
-                        <img src="./Assets/Images/Teams/NIHAL KULKARNI.png">
-                        <div class="overlay">
-                            <p class="team_name">Nihal Kulkarni</p>
-                            <p class="team_designation">Associate Software Developer</p>
-                            <div class="Social_icons">
-                                <div class="Social_icon"><i class="fa fa-facebook"></i></div>
-                                <div class="Social_icon"><i class="fa fa-linkedin"></i></div>
-                                <div class="Social_icon"><i class="fa fa-github"></i></div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="team">
                         <img src="./Assets/Images/Teams/SAGARIKA MOHANTY.png">
                         <div class="overlay">
                             <p class="team_name">Sagarika Mohanty</p>
@@ -123,6 +122,19 @@
                                 <div class="Social_icon"><a href="https://www.facebook.com/sagarika.mohanty.77398"><i class="fa fa-facebook"></i></a></div>
                                 <div class="Social_icon"><a href="http://www.linkedin.com/in/sagarika-mohanty-ba28a01b8"><i class="fa fa-linkedin"></i></a></div>
                                 <div class="Social_icon"><a href="https://github.com/sagarika710"><i class="fa fa-github"></i></a></div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="team">
+                        <img src="./Assets/Images/Teams/NIHAL KULKARNI.png">
+                        <div class="overlay">
+                            <p class="team_name">Nihal Kulkarni</p>
+                            <p class="team_designation">Associate Software Developer</p>
+                            <div class="Social_icons">
+                                <div class="Social_icon"><i class="fa fa-facebook"></i></div>
+                                <div class="Social_icon"><i class="fa fa-linkedin"></i></div>
+                                <div class="Social_icon"><i class="fa fa-github"></i></div>
                             </div>
                         </div>
                     </div>
@@ -155,7 +167,7 @@
                         <img src="./Assets/Images/Teams/SOMNATH.png">
                         <div class="overlay">
                             <p class="team_name">Somnath Sahoo</p>
-                            <p class="team_designation">Associate Software Developer</p>
+                            <p class="team_designation">Software Developer</p>
                             <div class="Social_icons">
                                 <div class="Social_icon"><a href="https://www.facebook.com/somnath.sahoo.777"><i class="fa fa-facebook"></i></a></div>
                                 <div class="Social_icon"><a href="https://www.linkedin.com/in/somanathsahoo786"><i class="fa fa-linkedin"></i></a></div>
@@ -168,7 +180,7 @@
                         <img src="./Assets/Images/Teams/ANKITA SENAPATI.png">
                         <div class="overlay">
                             <p class="team_name">Ankita Senapati</p>
-                            <p class="team_designation">Senior Java Developer</p>
+                            <p class="team_designation">Software Developer</p>
                             <div class="Social_icons">
                                 <div class="Social_icon"><i class="fa fa-facebook"></i></div>
                                 <div class="Social_icon"><i class="fa fa-linkedin"></i></div>
@@ -180,8 +192,8 @@
                     <div class="team">
                         <img src="./Assets/Images/Teams/JOHN.png">
                         <div class="overlay">
-                            <p class="team_name">Rajesh</p>
-                            <p class="team_designation">Senior Java Developer</p>
+                            <p class="team_name">Rajesh Kumar Sahoo</p>
+                            <p class="team_designation">Software Developer</p>
                             <div class="Social_icons">
                                 <div class="Social_icon"><i class="fa fa-facebook"></i></div>
                                 <div class="Social_icon"><i class="fa fa-linkedin"></i></div>
@@ -205,7 +217,7 @@
                         <img src="./Assets/Images/Teams/SIDDHESWAR PANDA.png">
                         <div class="overlay">
                             <p class="team_name">Siddheshwar Panda</p>
-                            <p class="team_designation">Associate Software Developer</p>
+                            <p class="team_designation">Software Developer</p>
                             <div class="Social_icons">
                                 <div class="Social_icon"><a href="https://www.linkedin.com/in/siddheshwar-panda-6a07281b0/"><i class="fa fa-facebook"></i></a></div>
                                 <div class="Social_icon"><a href="https://www.facebook.com/siddheshwar.panda.77/"><i class="fa fa-linkedin"></i></a></div>
@@ -216,8 +228,8 @@
                     <div class="team">
                         <img src="./Assets/Images/Teams/2.png">
                         <div class="overlay">
-                            <p class="team_name">John Doe</p>
-                            <p class="team_designation">Associate Software Developer</p>
+                            <p class="team_name">Bikash kumar Baral</p>
+                            <p class="team_designation">Software Developer</p>
                             <div class="Social_icons">
                                 <div class="Social_icon"><i class="fa fa-facebook"></i></div>
                                 <div class="Social_icon"><i class="fa fa-linkedin"></i></div>
@@ -228,8 +240,8 @@
                     <div class="team">
                         <img src="./Assets/Images/Teams/ABC.png">
                         <div class="overlay">
-                            <p class="team_name">John Doe</p>
-                            <p class="team_designation">Senior Java Developer</p>
+                            <p class="team_name">Rashmi Ranjan Sahoo</p>
+                            <p class="team_designation">Software Developer</p>
                             <div class="Social_icons">
                                 <div class="Social_icon"><i class="fa fa-facebook"></i></div>
                                 <div class="Social_icon"><i class="fa fa-linkedin"></i></div>
@@ -241,7 +253,7 @@
                         <img src="./Assets/Images/Teams/ZOBER HUSSAIN.png">
                         <div class="overlay">
                             <p class="team_name">Zober Hossain</p>
-                            <p class="team_designation">Associate Software Developer</p>
+                            <p class="team_designation">Software Developer</p>
                             <div class="Social_icons">
                                 <div class="Social_icon"><a href="https://m.facebook.com/zobaer53"><i class="fa fa-facebook"></i></a></div>
                                 <div class="Social_icon"><a href="https://www.linkedin.com/mwlite/in/zobaer53"><i class="fa fa-linkedin"></i></a></div>
@@ -261,84 +273,91 @@
             <div class="container last-container">
                 <div class="owl-slider" style="margin: 50px;">
                     <div id="carousel" class="owl-carousel">
-
                         <div class="item">
-
-                            <img class="pic" src="./Assets/Images/Teams/SHUBHAM MOHAPATRA.png">
+                            <img class="pic" src="./Assets/Images/Teams/Advisor/BALABHADRA TRIPATHY.png">
                             <div class="profile">
-                                <p class="profile_name">Shubham Mohapatra</p>
-                                <p class="profile_designation">Director/CEO</p>
+                                <p class="profile_name">Mr. Balabhadra Tripathy</p>
+                                <p class="profile_designation">18+ yrs of experience</p>
+                                <p class="profile_designation">Senior Advisor</p>
+                                <p class="profile_designation">Mainframe Developer</p>
                                 <div class="Social_icons">
                                     <div class="Social_icon"><i class="fa fa-facebook"></i></div>
                                     <div class="Social_icon"><i class="fa fa-linkedin"></i></div>
                                     <div class="Social_icon"><i class="fa fa-twitter"></i></div>
                                 </div>
-                                <button class="know_more_btn">KNOW MORE</button>
+                                <!-- <button class="know_more_btn">KNOW MORE</button> -->
                             </div>
                         </div>
-
                         <div class="item">
-
-                            <img class="pic" src="./Assets/Images/Teams/SNEHASISH MOHAPATRA.png">
+                            <img class="pic" src="./Assets/Images/Teams/Advisor/Satya Nayak.png">
                             <div class="profile">
-                                <p class="profile_name">Snehasish Mohapatra</p>
-                                <p class="profile_designation">Product Researcher</p>
+                                <p class="profile_name">Mr. Satya Nayak</p>
+                                <p class="profile_designation">15+ yrs of experience</p>
+                                <p class="profile_designation">Senior Advisor</p>
+                                <p class="profile_designation">Integration Developer</p>
                                 <div class="Social_icons">
                                     <div class="Social_icon"><i class="fa fa-facebook"></i></div>
                                     <div class="Social_icon"><i class="fa fa-linkedin"></i></div>
                                     <div class="Social_icon"><i class="fa fa-twitter"></i></div>
                                 </div>
-                                <button class="know_more_btn">KNOW MORE</button>
                             </div>
                         </div>
-
                         <div class="item">
-
-                            <img class="pic" src="./Assets/Images/profile3.png">
+                            <img class="pic" src="./Assets/Images/Teams/Advisor/Prabhu Om.png">
                             <div class="profile">
-                                <p class="profile_name">Tailoe Swift</p>
-                                <p class="profile_designation">Architect Head</p>
+                                <p class="profile_name">Mr. Prabhu Om</p>
+                                <p class="profile_designation">15+ yrs of experience</p>
+                                <p class="profile_designation">Senior Advisor</p>
+                                <p class="profile_designation">Data Engineer</p>
                                 <div class="Social_icons">
                                     <div class="Social_icon"><i class="fa fa-facebook"></i></div>
                                     <div class="Social_icon"><i class="fa fa-linkedin"></i></div>
                                     <div class="Social_icon"><i class="fa fa-twitter"></i></div>
                                 </div>
-                                <button class="know_more_btn">KNOW MORE</button>
                             </div>
                         </div>
-
                         <div class="item">
-
-                            <img class="pic" src="./Assets/Images/profile4.png">
+                            <img class="pic" src="./Assets/Images/Teams/Advisor/Swarup Das.png">
                             <div class="profile">
-                                <p class="profile_name">ED Shreeran</p>
-                                <p class="profile_designation">CTO</p>
+                                <p class="profile_name">Mr. Swarup Das</p>
+                                <p class="profile_designation">17+ yrs of experience</p>
+                                <p class="profile_designation">Senior Advisor</p>
+                                <p class="profile_designation">Devops Engineer</p>
                                 <div class="Social_icons">
                                     <div class="Social_icon"><i class="fa fa-facebook"></i></div>
                                     <div class="Social_icon"><i class="fa fa-linkedin"></i></div>
                                     <div class="Social_icon"><i class="fa fa-twitter"></i></div>
                                 </div>
-                                <button class="know_more_btn">KNOW MORE</button>
                             </div>
                         </div>
-
                         <div class="item">
-
-                            <img class="pic" src="./Assets/Images/profile1.png">
+                            <img class="pic" src="./Assets/Images/Teams/Advisor/Salil Behera.png">
                             <div class="profile">
-                                <p class="profile_name">Selena Gomez</p>
-                                <p class="profile_designation">Product design Advisor</p>
+                                <p class="profile_name">Mr. Salil Behera</p>
+                                <p class="profile_designation">17+ yrs of experience</p>
+                                <p class="profile_designation">Senior Advisor</p>
+                                <p class="profile_designation">Project Manager</p>
                                 <div class="Social_icons">
                                     <div class="Social_icon"><i class="fa fa-facebook"></i></div>
                                     <div class="Social_icon"><i class="fa fa-linkedin"></i></div>
                                     <div class="Social_icon"><i class="fa fa-twitter"></i></div>
                                 </div>
-                                <button class="know_more_btn">KNOW MORE</button>
                             </div>
                         </div>
-
-
-
+                        <div class="item">
+                            <img class="pic" src="./Assets/Images/Teams/Advisor/Debyjyoti.png">
+                            <div class="profile">
+                                <p class="profile_name">Mr. Debjyoti</p>
+                                <p class="profile_designation">12+ yrs of experience</p>
+                                <p class="profile_designation">Senior Advisor</p>
+                                <p class="profile_designation">FullStack Engineer</p>
+                                <div class="Social_icons">
+                                    <div class="Social_icon"><i class="fa fa-facebook"></i></div>
+                                    <div class="Social_icon"><i class="fa fa-linkedin"></i></div>
+                                    <div class="Social_icon"><i class="fa fa-twitter"></i></div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
 
