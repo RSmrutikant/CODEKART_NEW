@@ -286,6 +286,10 @@ span {
     font-size: 6px;
     line-height: 0px;
   }
+  .Social_icons {
+    bottom: 30px;
+    line-height: 10px;
+  }
   .Social_icon {
     height: 16px;
     width: 16px;
@@ -436,15 +440,19 @@ span {
     justify-content: center;
   }
   .team_name {
-    font-size: 18px;
+    font-size: 10px;
   }
   .team_designation {
-    font-size: 10px;
+    font-size: 8px;
+    line-height: 10px;
   }
   .Social_icon {
     height: 20px;
     width: 20px;
     font-size: 10px;
+  }
+  .Social_icons {
+    bottom: 30px;
   }
   .team {
     margin-bottom: 20%;
@@ -511,10 +519,11 @@ span {
     justify-content: center;
   }
   .team_name {
-    font-size: 18px;
+    font-size: 11px;
   }
   .team_designation {
-    font-size: 10px;
+    font-size: 8px;
+    line-height: 10px;
   }
   .Social_icon {
     height: 20px;
@@ -533,7 +542,7 @@ span {
   }
   .overlay {
     position: absolute;
-    bottom: -30px;
+    bottom: -25px;
     height: 21%;
   }
   .we {
@@ -589,8 +598,8 @@ span {
     font-size: 14px;
   }
   .team_designation {
-    font-size: 10px;
-    line-height: 1rem;
+    font-size: 8px;
+    line-height: 10px;
   }
   .Social_icon {
     height: 18px;

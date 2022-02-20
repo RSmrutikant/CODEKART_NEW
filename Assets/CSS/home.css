@@ -373,7 +373,6 @@ ul li span {
   position: absolute;
   top: 30px;
   left: 30px;
-  width: auto;
 }
 /* PARTNERS ASSOCIATE------------------------ */
 .associate-partners {
@@ -501,6 +500,10 @@ ul li span {
 }
 
 @media screen and (max-width: 600px) {
+  .slide {
+    width: 100%;
+    height: 200px;
+  }
   .slider-text {
     letter-spacing: 5px;
     text-align: left;

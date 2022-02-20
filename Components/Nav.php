@@ -137,7 +137,7 @@
     }
 </style>
 <nav class="navbar navbar-expand-lg navbar-light fixed-top shadow-lg">
-    <a class="navbar-brand d-lg-none" href="#"><img src="./Assets/Images/CODEKART.png"></a>
+    <a class="navbar-brand d-lg-none" href="./index.php"><img src="./Assets/Images/CODEKART.png"></a>
     <button class="navbar-toggler menu" type="button" data-bs-toggle="collapse" data-bs-target="#myNavbarToggler7" aria-controls="myNavbarToggler7" aria-expanded="false" aria-label="Toggle navigation" onclick="this.classList.toggle('opened');this.setAttribute('aria-expanded', this.classList.contains('opened'))" aria-label="Main Menu">
 
         <svg width="100" height="100" viewBox="0 0 100 100">
@@ -158,7 +158,7 @@
                 <a class="nav-link active" aria-current="page" href="./products.php">PRODUCTS</a>
             </li>
 
-            <a class="d-none d-lg-block brand-logo" href="#"><img src="./Assets/Images/CODEKART.png"></a>
+            <a class="d-none d-lg-block brand-logo" href="./index.php"><img src="./Assets/Images/CODEKART.png"></a>
             <li class="nav-item">
                 <a class="nav-link active" aria-current="page" href="./service.php">SERVICES</a>
             </li>
