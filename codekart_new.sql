@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Feb 10, 2022 at 04:56 AM
+-- Generation Time: Feb 20, 2022 at 03:44 PM
 -- Server version: 10.4.19-MariaDB
 -- PHP Version: 8.0.6
 
@@ -44,7 +44,31 @@ CREATE TABLE `contact` (
 
 INSERT INTO `contact` (`id`, `fname`, `lname`, `email`, `phone`, `intrest`, `message`, `date`) VALUES
 (1, 'Smrutikanta', 'Rout', 'rsmrutikant8@gmail.com', '8917216200', 'say_Hello', 'This is a test.', '2022-02-09 14:42:41'),
-(2, 'Disha', 'chauhan', 'disha123@gmail.com', '1234567890', 'Enquiry', 'Hello I want to do a enquiry on Internship.', '2022-02-09 15:11:13');
+(2, 'Disha', 'chauhan', 'disha123@gmail.com', '1234567890', 'Enquiry', 'Hello I want to do a enquiry on Internship.', '2022-02-09 15:11:13'),
+(3, 'Smrutikanta', 'Rout', 'rsmrutikant8@gmail.com', '8917216200', 'Enquiry', 'Mail Testing , This is for testing purpose only.', '2022-02-20 06:00:25'),
+(4, 'Disha', 'chauhan', 'disha123@gmail.com', '1234567890', 'Buisness_discuss', 'Business discuss only, testing messaage', '2022-02-20 08:58:48');
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `review`
+--
+
+CREATE TABLE `review` (
+  `id` int(11) NOT NULL,
+  `fname` varchar(100) NOT NULL,
+  `email` varchar(100) NOT NULL,
+  `identity` varchar(100) NOT NULL,
+  `review` varchar(255) NOT NULL,
+  `date` timestamp NOT NULL DEFAULT current_timestamp()
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+
+--
+-- Dumping data for table `review`
+--
+
+INSERT INTO `review` (`id`, `fname`, `email`, `identity`, `review`, `date`) VALUES
+(1, 'smrutikant', 'rsmrutikant8@gmail.com', 'other', 'This is for testing purpose only!', '2022-02-20 06:43:49');
 
 --
 -- Indexes for dumped tables
@@ -57,6 +81,12 @@ ALTER TABLE `contact`
   ADD PRIMARY KEY (`id`);
 
 --
+-- Indexes for table `review`
+--
+ALTER TABLE `review`
+  ADD PRIMARY KEY (`id`);
+
+--
 -- AUTO_INCREMENT for dumped tables
 --
 
@@ -64,7 +94,13 @@ ALTER TABLE `contact`
 -- AUTO_INCREMENT for table `contact`
 --
 ALTER TABLE `contact`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
+
+--
+-- AUTO_INCREMENT for table `review`
+--
+ALTER TABLE `review`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
