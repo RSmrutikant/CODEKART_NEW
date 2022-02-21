@@ -14,7 +14,6 @@
 }
 .slide {
   width: 100%;
-  height: 450px;
   position: relative;
   background-size: cover;
   background-repeat: no-repeat;
@@ -26,14 +25,6 @@
   line-height: 50px;
   font-size: 40px;
   text-transform: none;
-}
-.slide::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100vh;
 }
 
 .home-slider {
@@ -118,15 +109,6 @@
   line-height: 1em;
 }
 
-.slide-1 {
-  background-image: url(../Images/banner1.png);
-}
-.slide-2 {
-  background-image: url(../Images/banner2.png);
-}
-.slide-3 {
-  background-image: url(../Images/banner3.png);
-}
 .slide-content {
   text-align: center;
   position: absolute;
@@ -502,7 +484,12 @@ ul li span {
 @media screen and (max-width: 600px) {
   .slide {
     width: 100%;
-    height: 200px;
+  }
+  .home-slider {
+    margin-top: 5.5rem;
+  }
+  .container1 {
+    padding-block: 3em;
   }
   .slider-text {
     letter-spacing: 5px;

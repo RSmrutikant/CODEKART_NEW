@@ -63,9 +63,12 @@
                         <a href="./contact.php">Write a review</a>
                     </div>
                 </div> -->
+                <img src="./Assets/Images/banner1.png" alt="">
 
             </div>
             <div class="slide slide-2">
+                <img src="./Assets/Images/banner3.png" alt="">
+
                 <!-- <div class="slide-content">
                     <h1 class="ml13 slider-text">
                         Our Products Out Now.</h1>
@@ -75,6 +78,8 @@
                 </div> -->
             </div>
             <div class=" slide slide-3">
+                <img src="./Assets/Images/banner3.png" alt="">
+
                 <!-- <div class="slide-content">
                     <h1 class="ml6 slider-text">
                         <span class="text-wrapper">
