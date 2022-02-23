@@ -2,19 +2,12 @@
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <!-- header Links -->
+  <?php
+  include "./Components/head-links.php";
+  ?>
   <title>CODEKART | SERVICES</title>
-  <link rel="icon" href="./Assets/Images/ICON.png" type="image/icon type">
   <link rel="stylesheet" href="./Assets/CSS/service.css" />
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous" />
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Righteous&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="./Assets/CSS/Style.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" integrity="sha512-tS3S5qG0BlhnQROyJXvNjeEM4UpMXHrQfTGmbQ1gKmelCxlSEBUaxhRBj/EFTzpbP4RVSrpEikbmdJobCvhE3g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" integrity="sha512-sMXtMNL1zRzolHYKEujM2AqCLUR9F2C4/05cdbxjjLSRvMQIciEPCQZo++nk7go3BtSuK9kfa/s+a4f4i5pLkw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   <style>
     ::-webkit-scrollbar {
       width: 12px;
@@ -62,7 +55,7 @@
           </div>
           <div class="technologyWeAreUsing">
             <h4>Technologies we’re using:</h4>
-            <div class="owl-carousel owl-theme">
+            <div class="owl-carousel">
               <div class="item">
                 <img src="./Assets/Images/services/web/HTML.png" alt="" />
               </div>
@@ -125,7 +118,7 @@
           </div>
           <div class="technologyWeAreUsing">
             <h4>Technologies we’re using:</h4>
-            <div class="owl-carousel owl-theme">
+            <div class="owl-carousel">
               <div class="item">
                 <img src="./Assets/Images/services/mobile/REACT NATIVE.png" alt="" />
               </div>
@@ -167,8 +160,32 @@
           </div>
           <div class="technologyWeAreUsing">
             <h4>Technologies we’re using:</h4>
-            <div class="owl-carousel owl-theme">
+            <div class="owl-carousel">
 
+              <div class="item">
+                <img src="./Assets/Images/services/AR/VUFORIA.png" alt="" />
+              </div>
+              <div class="item">
+                <img src="./Assets/Images/services/AR/ARcore.png" alt="" />
+              </div>
+              <div class="item">
+                <img src="./Assets/Images/services/AR/ARkit.png" alt="" />
+              </div>
+              <div class="item">
+                <img src="./Assets/Images/services/AR/WIKITUDE.png" alt="" />
+              </div>
+              <div class="item">
+                <img src="./Assets/Images/services/AR/VUFORIA.png" alt="" />
+              </div>
+              <div class="item">
+                <img src="./Assets/Images/services/AR/ARcore.png" alt="" />
+              </div>
+              <div class="item">
+                <img src="./Assets/Images/services/AR/ARkit.png" alt="" />
+              </div>
+              <div class="item">
+                <img src="./Assets/Images/services/AR/WIKITUDE.png" alt="" />
+              </div>
               <div class="item">
                 <img src="./Assets/Images/services/AR/VUFORIA.png" alt="" />
               </div>
@@ -429,7 +446,7 @@
           </div>
           <div class="technologyWeAreUsing">
             <h4>Technologies we’re using:</h4>
-            <div class="owl-carousel owl-theme">
+            <div class="owl-carousel">
               <div class="item">
                 <img src="./Assets/Images/services/web/ANGULAR.png" alt="" />
               </div>
@@ -546,8 +563,9 @@
   include './Components/footer.php'
   ?>
 </body>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js" integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<!-- Optional JavaScript; choose one of the two! -->
+<script src="./Assets/JS/jquery.min.js"></script>
+<script src="./Assets/JS/owl.carousel.min.js"></script>
 <script src="./Assets/JS/main.js"></script>
 
 </html>

@@ -2,22 +2,13 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- header Links -->
+    <?php
+    include "./Components/head-links.php";
+    ?>
     <title>CODEKART | TEAM</title>
-    <link rel="icon" href="./Assets/Images/ICON.png" type="image/icon type">
     <link rel="stylesheet" href="./Assets/CSS/team.css">
-    <link rel="stylesheet" href="./Assets/CSS/Style.css">
-    <!-- CSS only -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Righteous&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+
     <style>
         ::-webkit-scrollbar {
             width: 12px;
@@ -370,7 +361,9 @@
     <?php
     include './Components/footer.php'
     ?>
-
+    <!-- Optional JavaScript; choose one of the two! -->
+    <script src="./Assets/JS/jquery.min.js"></script>
+    <script src="./Assets/JS/owl.carousel.min.js"></script>
 
     <script>
         jQuery("#carousel").owlCarousel({
