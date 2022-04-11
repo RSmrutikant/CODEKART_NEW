@@ -35,46 +35,13 @@
     <div class="home-slider">
         <div class="owl-carousel owl-theme">
             <div class="slide slide-1">
-                <!-- <div class="slide-content">
-                    <h1 class="ml12 slider-text">
-                        We are The
-                        IT
-                        Consultant To<span style="color:#C60021;">
-                            grow</span> Your
-                        <span style="color: #87C700;">Business.
-                    </h1>
-
-                    <div class="firstbtn">
-                        <a href="./contact.php">Write a review</a>
-                    </div>
-                </div> -->
                 <img src="./Assets/Images/banner1.png" alt="">
-
             </div>
             <div class="slide slide-2">
                 <img src="./Assets/Images/banner3.png" alt="">
-
-                <!-- <div class="slide-content">
-                    <h1 class="ml13 slider-text">
-                        Our Products Out Now.</h1>
-                    <div class="firstbtn">
-                        <a href="./contact.php">Write a review</a>
-                    </div>
-                </div> -->
             </div>
             <div class=" slide slide-3">
                 <img src="./Assets/Images/banner3.png" alt="">
-
-                <!-- <div class="slide-content">
-                    <h1 class="ml6 slider-text">
-                        <span class="text-wrapper">
-                            <span class="letters">Want to ask us anything?</span>
-                        </span>
-                    </h1>
-                    <div class="firstbtn">
-                        <a href="./contact.php">Write a review</a>
-                    </div>
-                </div> -->
             </div>
         </div>
         <div class="frame">
@@ -644,11 +611,12 @@
     <!-- service slider -->
     <script>
         $('.car2').owlCarousel({
-            loop: false,
+            loop: true,
             margin: 30,
             dots: false,
             nav: false,
             stagePadding: 100,
+            autoplay: true,
             responsiveClass: true,
             responsive: {
                 0: {

@@ -55,7 +55,7 @@
           </div>
           <div class="technologyWeAreUsing">
             <h4>Technologies we’re using:</h4>
-            <div class="owl-carousel">
+            <div class="owl-carousel serviceTech owl-theme">
               <div class="item">
                 <img src="./Assets/Images/services/web/HTML.png" alt="" />
               </div>
@@ -118,7 +118,25 @@
           </div>
           <div class="technologyWeAreUsing">
             <h4>Technologies we’re using:</h4>
-            <div class="owl-carousel">
+            <div class="owl-carousel serviceTech owl-theme">
+              <div class="item">
+                <img src="./Assets/Images/services/mobile/REACT NATIVE.png" alt="" />
+              </div>
+              <div class="item">
+                <img src="./Assets/Images/services/mobile/ANDROID.png" alt="" />
+              </div>
+              <div class="item">
+                <img src="./Assets/Images/services/mobile/FLUTTER.png" alt="" />
+              </div>
+              <div class="item">
+                <img src="./Assets/Images/services/mobile/KOTLIN.png" alt="" />
+              </div>
+              <div class="item">
+                <img src="./Assets/Images/services/mobile/XAMARIN.png" alt="" />
+              </div>
+              <div class="item">
+                <img src="./Assets/Images/services/mobile/IONIC.png" alt="" />
+              </div>
               <div class="item">
                 <img src="./Assets/Images/services/mobile/REACT NATIVE.png" alt="" />
               </div>
@@ -160,7 +178,7 @@
           </div>
           <div class="technologyWeAreUsing">
             <h4>Technologies we’re using:</h4>
-            <div class="owl-carousel">
+            <div class="owl-carousel serviceTech owl-theme">
 
               <div class="item">
                 <img src="./Assets/Images/services/AR/VUFORIA.png" alt="" />
@@ -221,7 +239,7 @@
           </div>
           <div class="technologyWeAreUsing">
             <!-- <h4>Technologies we’re using:</h4> -->
-            <!-- <div class="owl-carousel owl-theme">
+            <!-- <div class="owl-carousel serviceTech owl-theme owl-theme">
               <div class="item">
                 <img src="./Assets/Images/carousel1.png" alt="" />
               </div>
@@ -296,7 +314,7 @@
           </div>
           <div class="technologyWeAreUsing">
             <!-- <h4>Technologies we’re using:</h4> -->
-            <!-- <div class="owl-carousel owl-theme">
+            <!-- <div class="owl-carousel serviceTech owl-theme owl-theme">
               <div class="item">
                 <img src="./Assets/Images/carousel1.png" alt="" />
               </div>
@@ -371,7 +389,7 @@
           </div>
           <div class="technologyWeAreUsing">
             <!-- <h4>Technologies we’re using:</h4> -->
-            <!-- <div class="owl-carousel owl-theme">
+            <!-- <div class="owl-carousel serviceTech owl-theme owl-theme">
               <div class="item">
                 <img src="./Assets/Images/carousel1.png" alt="" />
               </div>
@@ -446,7 +464,7 @@
           </div>
           <div class="technologyWeAreUsing">
             <h4>Technologies we’re using:</h4>
-            <div class="owl-carousel">
+            <div class="owl-carousel serviceTech owl-theme">
               <div class="item">
                 <img src="./Assets/Images/services/web/ANGULAR.png" alt="" />
               </div>

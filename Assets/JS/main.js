@@ -1,12 +1,11 @@
-var owl = $(".owl-carousel");
+var owl = $(".serviceTech");
 owl.owlCarousel({
-  loop: false,
+  loop: true,
   nav: false,
   margin: 10,
+  autoplay: true,
   dots: false,
-
   autoWidth: true,
-
   responsive: {
     0: {
       items: 1,

@@ -43,7 +43,7 @@
             <p class="leftcard_message mb-4">Fill up the form and our Team will get back to you within 24
               hours.
             </p>
-            <p class="detail"><i class="fa fa-phone icon"></i> +91 8917216200</p>
+            <p class="detail"><i class="fa fa-phone icon"></i> +91 8658164463</p>
             <p class="detail"><i class="fa fa-envelope icon"></i> info@thecodekart@gmail.com</p>
             <div class="details">
               <i class="fa fa-map-marker icon"> </i> &emsp13;
